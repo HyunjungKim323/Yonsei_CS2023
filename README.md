@@ -1,6 +1,8 @@
 # SIBAS-YCS
 Satellite Image Building Area Segmentation
 
+[Data link](https://dacon.io/competitions/official/236092/data) (Open directory)
+
 # readme
 
 ## 0. Library Requirements (버전 기입하기)
