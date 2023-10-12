@@ -262,9 +262,9 @@ python3 inference_after_train.py
         - segformer_modelA/ (생성됨)
         - segformer_modelB/ (생성됨)
         - segformer_modelC/ (생성됨)
-        - checkpoints/
-          	-[segformer_mit-b5_8xb1_1024x1024_160k_cityscapes_20211206_072934-87a052ec] ('https://download.openmmlab.com/mmsegmentation/v0.5/pretrain/segformer/mit_b5_20220624-658746d9.pth')
-          	- iter_35700.pth ( You can email me, if you want this weight files )
+        - checkpoints/ (You can email me, if you want this weight files)
+          	- segformer_mit-b5_8xb1_1024x1024_160k_cityscapes_20211206_072934-87a052ec
+          	- iter_35700.pth 
           	- iter_53550.pth
           	- iter_110670.pth
         - config_ABC/
