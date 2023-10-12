@@ -1,0 +1,4 @@
+model A pretrained weight: segformer_mit-b5_8xb1_1024x1024_160k_cityscapes_20211206_072934-87a052ec.pth
+model B pretrained weight: iter_53550.pth
+model C pretrained weight: iter_35700.pth
+YCS Final weight: iter_110670.pth
