@@ -3,6 +3,8 @@ Satellite Image Building Area Segmentation
 
 [Data link](https://dacon.io/competitions/official/236092/data) (Open directory)
 
+![SW prize](https://github.com/HyunjungKim323/Yonsei_CS2023/assets/119280993/77071072-191c-4180-86ce-450e93ecbd73)
+
 # readme
 
 ## 0. Library Requirements (버전 기입하기)
