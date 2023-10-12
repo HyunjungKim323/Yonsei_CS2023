@@ -263,6 +263,10 @@ python3 inference_after_train.py
         - segformer_modelB/ (생성됨)
         - segformer_modelC/ (생성됨)
         - checkpoints/
+          	-[segformer_mit-b5_8xb1_1024x1024_160k_cityscapes_20211206_072934-87a052ec] ('https://download.openmmlab.com/mmsegmentation/v0.5/pretrain/segformer/mit_b5_20220624-658746d9.pth')
+          	- iter_35700.pth ( You can email me, if you want this weight files )
+          	- iter_53550.pth
+          	- iter_110670.pth
         - config_ABC/
         - inference_after_train.py
         - inference.py
@@ -270,6 +274,8 @@ python3 inference_after_train.py
         - trainA.py
         - trainB.py
         - trainC.py
+
+##
 
 # #5: private score 복원 가능한 모델 weight파일(.pth)로 inference하는 법
 
